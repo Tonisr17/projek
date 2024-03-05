@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="LOKAL",TRANS 7 HD
+https://tonisr.000webhostapp.com/tv/m3u.ts
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV HD" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="LOKAL",TRANS TV HD
+http://iptvkita.my.id:25461/Toni/0895810355575/2
+#EXTINF:-1 tvg-id="3002" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="LOKAL",INDOSIAR HD
+http://iptvkita.my.id:25461/Toni/0895810355575/3
