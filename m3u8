@@ -1,43 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="LOKAL",TRANS 7 HD
-http://tonisr.000webhostapp.com/tv/1.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/1
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV HD" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="LOKAL",TRANS TV HD
-http://tonisr.000webhostapp.com/tv/2.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/2
 #EXTINF:-1 tvg-id="3002" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="LOKAL",INDOSIAR HD
-http://tonisr.000webhostapp.com/tv/3.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/3
 #EXTINF:-1 tvg-id="3001" tvg-name="SCTV HD" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="LOKAL",SCTV HD
-http://tonisr.000webhostapp.com/tv/4.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/4
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="LOKAL",RCTI HD
-http://tonisr.000webhostapp.com/tv/5.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/5
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV HD" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="LOKAL",MNC TV HD
-http://tonisr.000webhostapp.com/tv/6.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/6
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="LOKAL",GTV HD
-http://tonisr.000webhostapp.com/tv/7.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/7
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNEWS HD" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL",iNEWS HD
-http://tonisr.000webhostapp.com/tv/8.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/8
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="TV ONE HD" tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="LOKAL",TV ONE HD
-http://tonisr.000webhostapp.com/tv/9.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/9
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV HD" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="LOKAL",ANTV HD
-http://tonisr.000webhostapp.com/tv/10.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/10
 #EXTINF:-1 tvg-id="3007" tvg-name="NET TV HD" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="LOKAL",NET TV HD
-http://tonisr.000webhostapp.com/tv/11.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/11
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV HD" tvg-logo="https://hometv.pw/logo/lokal/metrotv.png" group-title="LOKAL",METRO TV HD
-http://tonisr.000webhostapp.com/tv/12.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/12
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV HD" tvg-logo="https://hometv.pw/logo/lokal/kompastv.png" group-title="LOKAL",KOMPAS TV HD
-http://tonisr.000webhostapp.com/tv/13.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/13
 #EXTINF:-1 tvg-id="3008" tvg-name="RTV HD" tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="LOKAL",RTV HD
-http://tonisr.000webhostapp.com/tv/14.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/14
 #EXTINF:-1 tvg-id="" tvg-name="VIVA TV HD" tvg-logo="https://hometv.pw/logo/lokal/vtv.png" group-title="LOKAL",VIVA TV HD
-http://tonisr.000webhostapp.com/tv/15.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/15
 #EXTINF:-1 tvg-id="" tvg-name="BERITA SATU HD" tvg-logo="https://hometv.pw/logo/lokal/beritasatu.png" group-title="LOKAL",BERITA SATU HD
-http://tonisr.000webhostapp.com/tv/16.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/16
 #EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA HD" tvg-logo="https://hometv.pw/logo/lokal/cnn_indonesia.png" group-title="LOKAL",CNN INDONESIA HD
-http://tonisr.000webhostapp.com/tv/18.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/18
 #EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.pw/logo/lokal/cnbc_indonesia.png" group-title="LOKAL",CNBC INDONESIA
-http://tonisr.000webhostapp.com/tv/19.ts
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVRI HD" tvg-logo="https://hometv.pw/logo/lokal/tvri.png" group-title="LOKAL",TVRI HD
-http://tonisr.000webhostapp.com/tv/20.ts
+https://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAK TV HD" tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="LOKAL",JAK TV HD
-http://tonisr.000webhostapp.com/tv/21.ts
+https://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
 #EXTINF:-1 tvg-id="3014" tvg-name="DAAI TV HD" tvg-logo="https://hometv.pw/logo/lokal/daaitv.png" group-title="LOKAL",DAAI TV HD
-http://tonisr.000webhostapp.com/tv/22.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/22
