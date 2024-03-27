@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-SERVER:IPTVID
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:133780
+#EXTINF:10.0,
+https://streaming.indihometv.com/joss/134/ochannel720/b1044100_sleng_133780.ts
+#EXTINF:10.0,
+https://streaming.indihometv.com/joss/134/ochannel720/b1044100_sleng_133781.ts
+#EXTINF:10.0,
+https://streaming.indihometv.com/joss/134/ochannel720/b1044100_sleng_133782.ts
