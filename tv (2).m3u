@@ -105,7 +105,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYce-OaawnZBZg3_6eAmt6olboyDUfcW4RL-h3fgd1aA&s" group-title="LOKAL AUTO" , MOJI TV
-http://iptvid.my.id/avc/Gilang/Tonisr123/uchannel.m3u8
+http://iptvid.my.id/avc/Gilang/Tonisr123/ochannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" group-title="LOKAL AUTO" , JAK TV
 http://iptvid.my.id/avc/Gilang/Tonisr123/jaktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-45llA2j83kwop2oJkcp2xn_2azMwtro0oQ&usqp=CAU" group-title="LOKAL AUTO" , JTV
