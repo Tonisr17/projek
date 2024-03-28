@@ -516,4 +516,11 @@ https://storage.dewanonton.online/hls/777f5115-09d3-48f8-8eb3-5995bdc5173c.mp4/i
 https://storage.dewanonton.online/hls/4dc2d5f4-94e3-4d3a-bc78-dc1c165741b4.mp4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/e87a4ac9e54286ade202ccdd5df9186b.jpg" group-title="VOD DRAMA" , See for Me 
 https://storage.dewanonton.online/hls/4dc2d5f4-94e3-4d3a-bc78-dc1c165741b4.mp4/index.m3u8
-
+++++lifesyle-----
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ97NOY0LqvUUuZ3BfX_2SwstYnzyXlcXzGNQ-CTXJDPVY3Ibj15nWG2ftd&s=10" group-title="Lifestyle" , ATV
+http://iptvid.my.id/avc/Toni/Tonisr123/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586421934-.png" group-title="Lifestyle" , HGTV
+http://iptvid.my.id/avc/Toni/Tonisr123/hgtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO9lsXI0WrSQT7toayOu5JKjUZBiqmNnXiMg&usqp=CAU" group-title="Lifestyle" , Fashiontv
+http://iptvid.my.id/avc/Toni/Tonisr123/fashiontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" , 
