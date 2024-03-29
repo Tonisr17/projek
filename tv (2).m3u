@@ -158,6 +158,19 @@ http://iptvkita.my.id:25461/Toni/0895810355575/30
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Warkop DKI
 http://iptvkita.my.id:25461/Toni/0895810355575/31
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" tvg-name="" group-title="Kids",Disney Junior
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3fde515-2cc6-4b07-98ac-24bcbc3622b2/d87n9g6-bf0661ee-8892-4f80-a300-4b425db26ee5.png/v1/fill/w_1032,h_774/disney_xd_logo__lde_s_next_idea__by_decatilde_d87n9g6-pre.png" tvg-name="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids",Disney XD
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
+
+
 ######sports####
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.ibb.co/kc5KZ5c/Untitled-1-10.png" group-title="SPORTS" , DAZN ELEVEN 1 🇵🇹
