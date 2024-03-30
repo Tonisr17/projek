@@ -118,6 +118,18 @@ http://iptvid.my.id/avc/Toni/Tonisr123/daaitv.m3u8
 http://iptvid.my.id/avc/Toni/Tonisr123/indosiar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbOuE83KBzu1QyJFNLijaFC-wYaot1ywF8BW7s4V3g&s" group-title="Indihome" , INEWS
 http://iptvid.my.id/avc/Toni/Tonisr123/inews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwes30dor5r0AovpJsGowAMtpDmwae6wQGMw&usqp=CAU" group-title="Indohome" , INSERT
+http://iptvid.my.id/avc/Toni/Tonisr123/insert.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" group-title="Indihome" , JAK TV
+http://iptvid.my.id/avc/Toni/Tonisr123/jaktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/0sX5Ulk6hDFP9KEG2Hefwy8Wvvg=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="Indihome" , JTV
+http://iptvid.my.id/avc/Toni/Tonisr123/jtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="Indihome" , KOMPAS TV
+http://iptvid.my.id/avc/Toni/Tonisr123/kompastv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkqI6209G-JqB-ZEA98haWnx66ozaZBkPIw&usqp=CAU" group-title="Indihome" , KPLUS
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkqI6209G-JqB-ZEA98haWnx66ozaZBkPIw&usqp=CAU
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="Indihome" , METRO TV
+http://iptvid.my.id/avc/Toni/Tonisr123/metrotv.m3u8
 
 
 ------KIDS-----
