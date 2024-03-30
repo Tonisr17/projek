@@ -104,15 +104,21 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="LOKAL AUTO", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="LOKAL AUTO" , MOJI TV
-http://iptvid.my.id/avc/Gilang/Tonisr123/ochannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" group-title="LOKAL AUTO" , JAK TV
-http://iptvid.my.id/avc/Gilang/Tonisr123/jaktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-45llA2j83kwop2oJkcp2xn_2azMwtro0oQ&usqp=CAU" group-title="LOKAL AUTO" , JTV
-http://iptvid.my.id/avc/Gilang/Tonisr123/jtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="LOKAL AUTO" , ROJATV
-http://iptvid.my.id/avc/Gilang/Tonisr123/rodjatv.m3u8
- 
+++++++INDIHOME+++++++
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="Indihome" , ANTV
+http://iptvid.my.id/avc/Toni/Tonisr123/antv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvo_o-Z1ul1PI8phBlHtJes7Q1JQboL5EVNT7SHG-7w&s" group-title="Indihome" , CNB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_Fi8_PkBciwL-IQIBR9jpTd-5jXjff7RLQ25mQkvjABNLEzJc9EhDBY&s=10" group-title="CNN" , CNN
+http://iptvid.my.id/avc/Toni/Tonisr123/cnnindonesia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheoorCoZDi0ZJPzfuP2VV62pXTE1eHy8sks_IhX9vbw&s" group-title="Indihome" , DAAI TV
+http://iptvid.my.id/avc/Toni/Tonisr123/daaitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyg2aFmq1JpvyakStc4R8Ukf9kMy4fi6H3g&usqp=CAU" group-title="Indihome" , INDOSIAR
+http://iptvid.my.id/avc/Toni/Tonisr123/indosiar.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbOuE83KBzu1QyJFNLijaFC-wYaot1ywF8BW7s4V3g&s" group-title="Indihome" , INEWS
+http://iptvid.my.id/avc/Toni/Tonisr123/inews.m3u8
+
 
 ------KIDS-----
 
