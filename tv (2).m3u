@@ -118,7 +118,7 @@ http://iptvid.my.id/avc/Toni/Tonisr123/daaitv.m3u8
 http://iptvid.my.id/avc/Toni/Tonisr123/indosiar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbOuE83KBzu1QyJFNLijaFC-wYaot1ywF8BW7s4V3g&s" group-title="Indihome" , INEWS
 http://iptvid.my.id/avc/Toni/Tonisr123/inews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwes30dor5r0AovpJsGowAMtpDmwae6wQGMw&usqp=CAU" group-title="Indohome" , INSERT
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwes30dor5r0AovpJsGowAMtpDmwae6wQGMw&usqp=CAU" group-title="Indihome" , INSERT
 http://iptvid.my.id/avc/Toni/Tonisr123/insert.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" group-title="Indihome" , JAK TV
 http://iptvid.my.id/avc/Toni/Tonisr123/jaktv.m3u8
