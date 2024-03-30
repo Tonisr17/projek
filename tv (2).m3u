@@ -110,7 +110,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 http://iptvid.my.id/avc/Toni/Tonisr123/antv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvo_o-Z1ul1PI8phBlHtJes7Q1JQboL5EVNT7SHG-7w&s" group-title="Indihome" , CNB
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_Fi8_PkBciwL-IQIBR9jpTd-5jXjff7RLQ25mQkvjABNLEzJc9EhDBY&s=10" group-title="CNN" , CNN
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_Fi8_PkBciwL-IQIBR9jpTd-5jXjff7RLQ25mQkvjABNLEzJc9EhDBY&s=10" group-title="Indihome" , CNN
 http://iptvid.my.id/avc/Toni/Tonisr123/cnnindonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheoorCoZDi0ZJPzfuP2VV62pXTE1eHy8sks_IhX9vbw&s" group-title="Indihome" , DAAI TV
 http://iptvid.my.id/avc/Toni/Tonisr123/daaitv.m3u8
