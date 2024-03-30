@@ -131,6 +131,18 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkqI6209G-JqB-ZEA98haWnx6
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="Indihome" , METRO TV
 http://iptvid.my.id/avc/Toni/Tonisr123/metrotv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvo_o-Z1ul1PI8phBlHtJes7Q1JQboL5EVNT7SHG-7w&s" group-title="Indihome" , CNB 
+http://iptvid.my.id/avc/Toni/Tonisr123/cnbcindonesia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK3-l2CVlMnsp-7qwJfirbwsxRu_2eKA4IbcbQxiliFYbcQp5EmLZxi0&s=10" group-title="Indihome" , SINDO NEW
+http://iptvid.my.id/avc/Toni/Tonisr123/mncnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="Indihome" , NET TV
+http://iptvid.my.id/avc/Toni/Tonisr123/net.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9l938HYqA_QMPW3zPlHStC0swxREPZPn2q0yn5S30g&s" group-title="Indihome" , NUSANTARA
+http://iptvid.my.id/avc/Toni/Tonisr123/nusantaratv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCnyji712zbcXDbipmZQm_Jj7B9qonCXcHpTxrrbYKjpoqn-T7Ko54UWSm&s=10" group-title="Indihome" , MOJI TV
+http://iptvid.my.id/avc/Toni/Tonisr123/ochannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest?cb=20180922034039" group-title="Indihome" , ROJA TV
+http://iptvid.my.id/avc/Toni/Tonisr123/rodjatv.m3u8
 
 ------KIDS-----
 
