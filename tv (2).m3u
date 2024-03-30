@@ -144,6 +144,19 @@ http://iptvid.my.id/avc/Toni/Tonisr123/ochannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest?cb=20180922034039" group-title="Indihome" , ROJA TV
 http://iptvid.my.id/avc/Toni/Tonisr123/rodjatv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/1TMD8nonXrRVhDaBUo7VQgJGkQc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="Indihome" , RTV
+http://iptvid.my.id/avc/Toni/Tonisr123/rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="Indihome" , SCTV
+http://iptvid.my.id/avc/Toni/Tonisr123/sctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmHsrw9V7zfc-TcgBdzUe6xvownKRikBzXFCp5eLM8aS05KX9UP7XU-Q&s=10" group-title="Indihome" , TRANS 7
+http://iptvid.my.id/avc/Toni/Tonisr123/trans7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="Indihome" , TRNAS TV
+http://iptvid.my.id/avc/Toni/Tonisr123/transtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg" group-title="Indihome" , TV ONE
+http://iptvid.my.id/avc/Toni/Tonisr123/tvone.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGoVZNQXVFDhPd3ssvnfkJNs_74iHyW88EPq_kAgNgOgDbYe4F6tnHYU&s=10" group-title="Indihome" , TVRI
+http://iptvid.my.id/avc/Toni/Tonisr123/tvri.m3u8
+
 ------KIDS-----
 
 #EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="http://103.127.208.209:25461/images/0179897d80f77a41274d87d27772a06e.png" group-title="Kids",LARVA
