@@ -168,22 +168,38 @@ http://iptvkita.my.id:25461/Toni/0895810355575/105
 #EXTINF:-1 tvg-id="" tvg-name="DORAEMON" tvg-logo="http://103.127.208.209:25461/images/d4388c4d4b47c6655b16fe5b13184b32.png" group-title="Kids",DORAEMON
 http://iptvkita.my.id:25461/Toni/0895810355575/106
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://hometv.pw/logo/kids/mentari.png" group-title="Kids",MENTARI TV
-http://iptvkita.my.id:25461/Toni/0895810355575/110
+http://iptvid.my.id/avc/whika/whika12345/mentaritv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://hometv.pw/logo/kids/nick_jr.png" group-title="Kids",NICK JR
-http://iptvkita.my.id:25461/Toni/0895810355575/112
+http://iptvid.my.id/avc/whika/whika12345/nickjr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://hometv.pw/logo/kids/dreamworks.png" group-title="Kids",DREAMWORS
 http://iptvkita.my.id:25461/Toni/0895810355575/115
 #EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="Kids",MY KIDZ
-http://iptvkita.my.id:25461/Toni/0895810355575/114
+http://iptvid.my.id/avc/whika/whika12345/mykids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://hometv.pw/logo/kids/horee.png" group-title="Kids",Horee
-http://iptvkita.my.id:25461/Toni/0895810355575/116
+http://iptvid.my.id/avc/whika/whika12345/horee.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="Kids",CARTOON NETWORK HD
-http://iptvkita.my.id:25461/Toni/0895810355575/111
-
+http://iptvid.my.id/avc/Toni/Tonisr123/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://hometv.pw/logo/kids/animax.png" group-title="Kids",ANIMAX
-http://iptvkita.my.id:25461/Toni/0895810355575/120
+http://iptvid.my.id/avc/whika/whika12345/animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="Kids",ANIPLUS
-http://iptvkita.my.id:25461/Toni/0895810355575/121
+http://iptvid.my.id/avc/whika/whika12345/aniplus.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" tvg-name="" group-title="Kids",Disney Junior
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3fde515-2cc6-4b07-98ac-24bcbc3622b2/d87n9g6-bf0661ee-8892-4f80-a300-4b425db26ee5.png/v1/fill/w_1032,h_774/disney_xd_logo__lde_s_next_idea__by_decatilde_d87n9g6-pre.png" tvg-name="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids",Disney XD
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
+
++++++++BIOSKOP++++++++
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Action" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Action
 http://iptvkita.my.id:25461/Toni/0895810355575/23
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Thriller" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Thriller
@@ -201,17 +217,6 @@ http://iptvkita.my.id:25461/Toni/0895810355575/30
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Warkop DKI
 http://iptvkita.my.id:25461/Toni/0895810355575/31
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" tvg-name="" group-title="Kids",Disney Junior
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3fde515-2cc6-4b07-98ac-24bcbc3622b2/d87n9g6-bf0661ee-8892-4f80-a300-4b425db26ee5.png/v1/fill/w_1032,h_774/disney_xd_logo__lde_s_next_idea__by_decatilde_d87n9g6-pre.png" tvg-name="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids",Disney XD
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
 
 
 ######sports####
