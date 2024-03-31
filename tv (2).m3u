@@ -164,7 +164,7 @@ http://iptvid.my.id/avc/Toni/Tonisr123/tvri.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAVja9Vs1e1ZinfBBfUYs5jLAMniSe55r1wjK7Z5RAqRM-rgwevw_jQ&s=10" group-title="Kids" , ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvW_-s-uH0qIdqxcaBbLOhk20AOWpIJGc8Rm4OR2JLcT-mhqQjB0Z1hN7&s=10" group-title="Kids" , ABC  Kids
-https://c.mjh.nz/abc-kids.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8f81f4ae5a764c3793ccd49a4b254e9c/index.m3u8?hdnea=st=1711922818~exp=1711923718~acl=/*~hmac=20aa7f99f8f27532efd35621794cc94e3bd70f81c53cb2ba2044a07fca6c655f
 #EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b0/58/b7/b058b7a6-7379-cd6c-edc6-1059acdcd995/AppIcon-1x_U007emarketing-0-9-0-0-sRGB-85-220.png/1200x600wa.png" group-title="Kids" , ABC ME
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaXmoUuypqcev5ryrxF_2rsDHX4TuYFBbe88t00eTRcR5VNdEQO8Qj-MIy&s=10" group-title="Kids" , ANIPLUS
