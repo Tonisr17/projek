@@ -189,7 +189,8 @@ http://iptvid.my.id/avc/Toni/Tonisr123/dunialain.m3u8
 http://iptvid.my.id/avc/Toni/Tonisr123/indikids.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS83cH8LkLV2a36h_fynDAnevonuv1Rc3CGuve0kRHR8Q84QT4p2JrJ50&s=10" group-title="Kids" , NICKELODION
 http://iptvid.my.id/avc/whika/whika12345/nickelodeon.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-zzQ8oagMiIjbjcWb96lCXvhlS1erL9-KB2Wt8lNtOCmAOEzXxXoSGY&s=10" group-title="Kids" , DAVICI
+http://iptvid.my.id/avc/whika/whika12345/davinci.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
@@ -629,6 +630,10 @@ http://iptvid.my.id/avc/Toni/Tonisr123/warner.m3u8
 http://iptvid.my.id/avc/Toni/Tonisr123/useeprime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRL_fWbCXtw3_dbN5NfZ3SkLk8GeZNpTj0YKgLLTenl5ZiRn6GUaF-wnQ&s=10" group-title="Movies" , Thrill
 http://iptvid.my.id/avc/Toni/Tonisr123/thrill.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/cctv4.png" group-title="Movies" , CCTV4
+http://iptvid.my.id/bikin_pl.php?user=whika&pass=whika12345#
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQuJeYgkUwTaclfc6bU9Rl3dz6rn83wR1bg&usqp=CAU" group-title="Movies" , GALAXY
+http://iptvid.my.id/avc/whika/whika12345/galaxy.m3u8
 
 
 ----MUSIK---++
