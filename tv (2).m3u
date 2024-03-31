@@ -183,9 +183,12 @@ http://iptvid.my.id/avc/Toni/Tonisr123/cartoonnetwork.m3u8
 http://iptvid.my.id/avc/whika/whika12345/animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="Kids",ANIPLUS
 http://iptvid.my.id/avc/whika/whika12345/aniplus.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PPuFkMnB-ZBOFkLkimJPHEVGXZC3n38BYwCEiuKv0B2WqZ1MRtP6bv0&s=10" group-title="Kids" , DUNIA ANAK
+http://iptvid.my.id/avc/Toni/Tonisr123/dunialain.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jOBWIB-pdWQBfbr-Wz12wJGAgU-u4fCj5Q&usqp=CAU" group-title="Kids" , FUN PLANET
+http://iptvid.my.id/avc/Toni/Tonisr123/indikids.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS83cH8LkLV2a36h_fynDAnevonuv1Rc3CGuve0kRHR8Q84QT4p2JrJ50&s=10" group-title="Kids" , NICKELODION
+http://iptvid.my.id/avc/whika/whika12345/nickelodeon.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
