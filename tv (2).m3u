@@ -1,3 +1,47 @@
+#EXTINF
+https://iptv.my.id:4532/Toni/Indihome.ts
+#EXTINF
+https://iptv.my.id:4532/Toni/Premium/Lokal.ts
+#EXTINF
+https://iptv.my.id:4532/Toni/Vod/Seris.ts
+#EXTINF
+https://iptv.my.id/4532/Toni/Bioskop.ts
+#EXTINF
+https://iptv.my.id/4532/Toni/Movies/1.ts
+#EXTINF
+https://iptv.my.id/4532/Toni/Lokal/Religi.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ++++LOKAL HD++++
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/0nVgFph/Untitled-3-01.png" group-title="LOKAL AUTO", ANTV
@@ -637,6 +681,43 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=16ae621435f53c528b0e6bebdc306ecd:1031858690f3f9fdfef051345d1a9056
 https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
 
+
+------NEWS-------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFWEnV7ldYx9ifbSQ3_9jKp8oYUiR2DITbKqk_2j-RL-40x0Ie4lUECg&s=10" group-title="NEWS", AL JAZEERA ARABIC 
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuKF8noG6R2M9eRhHhrcnl7b-ufCdkwMIJwaVP4My3wSSy172rYT29hl&s=10" group-title="NEWS", BBC NEWS 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS", CGTN ENGLISH 
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NR-o4W-tuFbRc2-3YBKWigxjPAs-mROcSg&usqp=CAU" group-title="NEWS", CHANNEL NEWS ASIA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RdsRukIqdE_P4Fm0H0S8aCxcdaQFgcrfqrbWukrHCvVxWLF_TY3413w&s=10" group-title="NEWS", DW ENGLISH 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/de/bd/9bdebd8c-52e4-60c3-0418-ea03b3b63a08/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/1200x600wa.png" group-title="NEWS", FRANCE24 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&userid=lite&chname=France_24
+#EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLfa6VoQvz3V1om-_3jRj2nAQf7VGJ9y0uWltoeqVyn6quxVgLGNdiog6&s=10" group-title="NEWS",NHK World Japan 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+#EXTINF:-1 tvg-id="NHK World Premium - [Channel 354].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0fVU_1tHl1SX6czwp1oFbEVYLGlntQh-uYuhEEOyEGE0IaMJxiRQlO0w&s=10" group-title="NEWS",NHK World Premium 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjaXMwe0K_aQeXVzuw2IA0EcXiiK-RB9-HWTh_e_Rf0Q&s" group-title="NEWS", TRT WORLD 
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-name="" tvg-logo="https://seatoday.com/images/20231108194328_logo_11.png" group-title="NEWS", SEA TODAY 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 
 +++++RELIGI-------
