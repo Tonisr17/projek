@@ -1,44 +1,6 @@
-#EXTINF
-https://iptv.my.id:4532/Toni/Indihome.ts
-#EXTINF
-https://iptv.my.id:4532/Toni/Premium/Lokal.ts
-#EXTINF
-https://iptv.my.id:4532/Toni/Vod/Seris.ts
-#EXTINF
-https://iptv.my.id/4532/Toni/Bioskop.ts
-#EXTINF
-https://iptv.my.id/4532/Toni/Movies/1.ts
-#EXTINF
-https://iptv.my.id/4532/Toni/Lokal/Religi.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----GW DOAIN YANG COPY PASTE URL INI SEMOGA KAWALAT DALAM HIDUP NYA-----
+MAXSIMAL BIKIN PLAYLIST SENDIRI GAK USAH COPY PASTE URL ORANG,MENDING URL NYA
+INI MALAH SAMA LOGO NYA--- HARGA ORANG LAIN BIAR BEDA SAMA YANG LAIN 
 
 
 
@@ -201,7 +163,11 @@ http://iptvid.my.id/avc/Toni/Tonisr123/tvone.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGoVZNQXVFDhPd3ssvnfkJNs_74iHyW88EPq_kAgNgOgDbYe4F6tnHYU&s=10" group-title="Indihome" , TVRI
 http://iptvid.my.id/avc/Toni/Tonisr123/tvri.m3u8
 
+
+
 ++++++KIDS++++++
+
+
 
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://i.ibb.co/R4m9H9B/abc-kids.jpg" group-title="KIDS", ABC KIDS 
 https://c.mjh.nz/abc-kids.m3u8
@@ -718,7 +684,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcJIDjlpvVDe2MzEWZj1gyZlseN0nb3ZVUg&usqp=CAU" group-title="NEWS" , pandatv
+http://iptvid.my.id/avc/Toni/Tonisr123/pandatv.m3u8
 
 +++++RELIGI-------
  
@@ -915,8 +882,6 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZxquW8VXNmwwJN1pI0XZFyNvOr-Rk7TZLA&usqp=CAU" group-title="Musik" , pramborstv
 http://iptvid.my.id/avc/Toni/Tonisr123/pramborstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcJIDjlpvVDe2MzEWZj1gyZlseN0nb3ZVUg&usqp=CAU" group-title="News" , pandatv
-http://iptvid.my.id/avc/Toni/Tonisr123/pandatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlNhydDmwSLCBU81XPivKrObBoH3X7GkD4m1G_wbYNcukczW8qC3V2eZ6&s=10" group-title="Musik" , Musik indo
 http://iptvid.my.id/avc/Toni/Tonisr123/musikindo.m3u8
 
