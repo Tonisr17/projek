@@ -11,22 +11,18 @@ INI MALAH SAMA LOGO NYA--- HARGA ORANG LAIN BIAR BEDA SAMA YANG LAIN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
- 
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/JjycWTZ/Untitled-3-04.png" group-title="LOKAL AUTO", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
- 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/HTvm0xk/Untitled-3-05.png group-title="LOKAL AUTO",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
- 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/MhcJ8HV/Untitled-3-09.png" group-title="LOKAL AUTO", MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
- 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/sgWtzvH/Untitled-3-10.png" group-title="LOKAL AUTO", NET.
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -34,7 +30,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="LOKAL AUTO" , RCTI
 #EXTVLCOPT:http-user-agent=android-R+
@@ -43,40 +38,33 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jLCsvCm/Untitled-3-14.png" group-title="LOKAL AUTO", SCTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
- 
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/3NfN3fP/Untitled-3-16.png" group-title="LOKAL AUTO", TRANS 7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
- 
 #EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/JkCSJJM/Untitled-3-17.png" group-title="LOKAL AUTO", TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
- 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/wB9gW76/Untitled-3-18.png" group-title="LOKAL AUTO", TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-
 #EXTINF:0 group-title="LOKAL AUTO" tvg-logo="https://i.ibb.co/Lr9TGxw/Untitled-3-13.png", RTV
 http://210.210.155.37/uq2663/h/h10/index.m3u8
- 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/J7RKdrT/Untitled-3-07.png" group-title="LOKAL AUTO", KOMPAS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
- 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/Wp4fsp4/Untitled-3-08.png" group-title="LOKAL AUTO", METRO TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
- 
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/mSvHNZr/Untitled-3-06.png" group-title="LOKAL AUTO", INEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -88,25 +76,19 @@ https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
- 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co/3WD0DcZ/Untitled-3-02.png" group-title="LOKAL AUTO", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
- 
 #EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/VQ9SbjM/Untitled-3-03.png" group-title="LOKAL AUTO", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/pR5Ky9d/Untitled-3-11.png" group-title="LOKAL AUTO", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-name="SINDONEWS" tvg-logo="https://i.ibb.co/z64qwtd/Untitled-3-15.png" group-title="LOKAL AUTO", SINDONEWS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MSGB47h/Untitled-3-20.png" group-title="LOKAL AUTO", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="LOKAL AUTO", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
@@ -115,7 +97,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="Indihome" , ANTV
 http://iptvid.my.id/avc/Toni/Tonisr123/antv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvo_o-Z1ul1PI8phBlHtJes7Q1JQboL5EVNT7SHG-7w&s" group-title="Indihome" , CNB
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_Fi8_PkBciwL-IQIBR9jpTd-5jXjff7RLQ25mQkvjABNLEzJc9EhDBY&s=10" group-title="Indihome" , CNN
 http://iptvid.my.id/avc/Toni/Tonisr123/cnnindonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheoorCoZDi0ZJPzfuP2VV62pXTE1eHy8sks_IhX9vbw&s" group-title="Indihome" , DAAI TV
@@ -136,7 +117,6 @@ http://iptvid.my.id/avc/Toni/Tonisr123/kompastv.m3u8
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkqI6209G-JqB-ZEA98haWnx66ozaZBkPIw&usqp=CAU
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="Indihome" , METRO TV
 http://iptvid.my.id/avc/Toni/Tonisr123/metrotv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvo_o-Z1ul1PI8phBlHtJes7Q1JQboL5EVNT7SHG-7w&s" group-title="Indihome" , CNB 
 http://iptvid.my.id/avc/Toni/Tonisr123/cnbcindonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK3-l2CVlMnsp-7qwJfirbwsxRu_2eKA4IbcbQxiliFYbcQp5EmLZxi0&s=10" group-title="Indihome" , SINDO NEW
@@ -149,7 +129,6 @@ http://iptvid.my.id/avc/Toni/Tonisr123/nusantaratv.m3u8
 http://iptvid.my.id/avc/Toni/Tonisr123/ochannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest?cb=20180922034039" group-title="Indihome" , ROJA TV
 http://iptvid.my.id/avc/Toni/Tonisr123/rodjatv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/1TMD8nonXrRVhDaBUo7VQgJGkQc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="Indihome" , RTV
 http://iptvid.my.id/avc/Toni/Tonisr123/rtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="Indihome" , SCTV
@@ -269,22 +248,12 @@ http://103.150.117.215:25461/nvcm3u/iptvkita/11797
 +++++++BIOSKOP++++++++
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Action" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Action
-http://iptvkita.my.id:25461/Toni/0895810355575/23
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Thriller" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Thriller
-http://iptvkita.my.id:25461/Toni/0895810355575/25
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop China" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop China
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTK3DjfGm6IWtuXQYanUOrtb-H54xPOJNYvpnB5j74msU6oWJc8lVI8GI&s=10" group-title="BIOSKOP ",Bioskop Drama & Family
+http://iptvkita.my.id:25461/Toni/0895810355575/24
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTK3DjfGm6IWtuXQYanUOrtb-H54xPOJNYvpnB5j74msU6oWJc8lVI8GI&s=10" group-title="BIOSKOP ",Bioskop Indonesia
 http://iptvkita.my.id:25461/Toni/0895810355575/26
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Bollywood" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Bollywood
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTK3DjfGm6IWtuXQYanUOrtb-H54xPOJNYvpnB5j74msU6oWJc8lVI8GI&s=10" group-title="BIOSKOP ",Bioskop Warkop DKI
 http://iptvkita.my.id:25461/Toni/0895810355575/27
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Drama & Family
-http://iptvkita.my.id:25461/Toni/0895810355575/28
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Horror" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Horror
-http://iptvkita.my.id:25461/Toni/0895810355575/29
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Indonesia
-http://iptvkita.my.id:25461/Toni/0895810355575/30
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="BIOSKOP ",Bioskop Warkop DKI
-http://iptvkita.my.id:25461/Toni/0895810355575/31
 
 
 
