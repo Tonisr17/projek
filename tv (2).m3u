@@ -242,7 +242,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://i.ibb.co/SmzhjM7/zoo-moo.jpg" group-title="KIDS", ZOO MOO 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgGjCnyB-yFu6RF_yg-rtb6WmfmWKYgQusLXlaOZFhq07q8DQ_MogLqDB&s=10" group-title="KIDS" , TOM & JERY
+
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgGjCnyB-yFu6RF_yg-rtb6WmfmWKYgQusLXlaOZFhq07q8DQ_MogLqDB&s=10" group-title="KIDS",TOM & JERRY
 http://103.150.117.215:25461/nvcm3u/iptvkita/11797
 
 +++++++BIOSKOP++++++++
