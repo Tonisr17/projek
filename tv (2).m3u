@@ -954,6 +954,10 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 http://iptvid.my.id/avc/Toni/Tonisr123/pramborstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlNhydDmwSLCBU81XPivKrObBoH3X7GkD4m1G_wbYNcukczW8qC3V2eZ6&s=10" group-title="Musik" , Musik indo
 http://iptvid.my.id/avc/Toni/Tonisr123/musikindo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61a5e36DBf-diHDAxkGS9UcoTUI8o_L9EKA&usqp=CAU" group-title="Musik" , ICONSER
+http://iptvid.my.id/avc/Toni/Tonisr123/ikonser.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRteJrBvLsRjKD70prE5Jw1kJH3asJU26aABaK-F9l1PHrQ5fvZZwyFHlOR&s=10" group-title="Musik" , MTV
+http://iptvid.my.id/avc/Toni/Tonisr123/mtvlive.m3u8
 
 -----HBO GROUP-----
 
