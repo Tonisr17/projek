@@ -616,7 +616,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ae621435f53c528b0e6bebdc306ecd:1031858690f3f9fdfef051345d1a9056
 https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="https://hometv.pw/logo/kids2/bean.png" group-title="MOVIES",MR. BEAN
+http://103.150.117.215:25461/nvcm3u/iptvkita/11799
 
 ------NEWS-------
 
