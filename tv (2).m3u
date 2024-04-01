@@ -425,36 +425,95 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NjmpdVn/Untitled-1-01.png" group-title="KNOWLEDGE",Animal Planet 
-https://kusnadipepenk.github.io/ntn/animal.m3u8
+
+
+------🗿🗿🗿KNOWLEDGE😌😌😌----
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Animal Planet HD World"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET 
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ06c2gxIb2_H7a9tk2OTODbJfGwj7eDK_H_1MMqNHcqRomWNF9ju_fww-&s=10" group-title="KNOWLEDGE", BBC EARTH 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgcyCJhSSpcuUz622E5Wu5IhaaUO3U2iEgA&usqp=CAU" group-title="KNOWLEDGE", CRIME INVESTIGATION 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZFLFLbwtsO55XAHFhn3-wFGVWvPwXjCLmVc2FQhgYK6saRtH2CCgyDjU&s=10" group-title="KNOWLEDGE", CURIOSITY CHANNEL 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsWIf_IC3Q1uxIEigp2Qt1j0hYoZsHYSU-Q&usqp=CAU" group-title="KNOWLEDGE", DISCOVERY 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
+https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
+#EXTINF:-1 channel-id="samsung-USBD1200009JI" tvg-id="USBD1200009JI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVn3tzM6Y2PGtvcf9aDZk2IqBtkHsIitR5qTvE7H4v1PwvTwFuY12Odpd8&s=10" tvg-chno="1406" group-title="KNOWLEDGE" , History & Warfare Now
+https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtR1z4jcYgJQROb8PSPhV6i0d0PAxNVe-BA&usqp=CAU", INDONESIANA TV 
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpRD1H5UFwM6U7KONezS6bbxaiIsonIy84N-OL-YE0iP_s8x1bXZvTo0&s=10", INVESTIGATION DISCOVERY 
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png?fit=497%2C210&ssl=1" group-title="KNOWLEDGE" , INWILD 
+https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqe3z8CZzQQI_l5aGHND1x69BSIdZZ3l2RO1U8Wmj_cEHDfESbAeNVn4g&s=10" group-title="KNOWLEDGE", LOVE NATURE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWNy7zmCt8Gx5FpNPAU1DSE-RNYyef_tuOtw&usqp=CAU" group-title="KNOWLEDGE", LOVE NATURE 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9PgEIEDTdhIwuMo76OgweJJd-5ytWRNMVufeNj_IeKTwldDAyw2d6HI&s=10" group-title="KNOWLEDGE", NASA 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0aThom08gFanGvMwqpwM6S1JtG0LwGTycw&usqp=CAU" group-title="KNOWLEDGE", 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
+https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
+#EXTINF:-1 tvg-id="Odisea" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIg4sK1MNpe6Xp2WwqqrLdOdZDz_0uKu8IxQ&usqp=CAU" group-title="KNOWLEDGE", ODISEA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
+https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_ans64vw8HLIb7ubd8_6LnRlXKxg31A52icnwixsMYilM497bgBmZ4c&s=10" group-title="KNOWLEDGE", OUTDOOR CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 channel-id="samsung-USBA3000043LH" tvg-id="USBA3000043LH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9q2tlaYwykIjH_nRVbSdi1nZsrHMdrvhttQ&usqp=CAU" tvg-chno="1400" group-title="KNOWLEDGE" , Samsung Wild Life 
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+#EXTINF:-1 tvg-id="SkyDocumentariesHD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzqDvwS2aWrIejQlUH_vDPf480xp7P3uwn3w&usqp=CAU" group-title="KNOWLEDGE", SKY DOCUMENTARIES 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00095c8c696dd125c2bbc03be66df122:14a8717baabb0cbd5ec99f4ec4165b75
+https://linear406-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skydocumentaries)/manifest_1080.mpd
+#EXTINF:-1 tvg-id="SmithsonianChannelWest.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXajIHYtGQJxCg4JWxBPZEjq57IpV_l5lic6rQpz90NrQgItMBD4TXLQ&s=10" group-title="KNOWLEDGE", SMITHSONIAN 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc9172c0134d41d4823fa8c7823e97d6:fd0deaf6d1fc06cf3e4e2ce606e5d45d
+https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/SMTHHD_00192/manifest.mpd
+#EXTINF:-1 tvg-id="SONY BBC Earth HD" tvg-name="SONY BBC Earth HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEWdF73QQQLJqlETOGspRae4QI62CtRGY2BA&usqp=CAU" group-title="KNOWLEDGE", SONY BBC EARTH 
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Travel Channel HDTV (East)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png", TRVL 
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 channel-id="samsung-GBBC300003UQ" tvg-id="GBBC300003UQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIVxQD5gDlpGaHbJTq34DvO1EaOiv844d0g&usqp=CAU" group-title="KNOWLEDGE" , WaterBear 
+https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
+#EXTINF:-1 channel-id="samsung-GBBC4300002RW" tvg-id="GBBC4300002RW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeuAEDxExXyJcec6osGuRChvrtBkANDahWg&usqp=CAU" group-title="KNOWLEDGE" , WildEarth 
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://i.ibb.co/D8y71Xm/Untitled-1-03.png" group-title="KNOWLEDGE",Digione
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K654F9p/Untitled-1-09.png" group-title="KNOWLEDGE",Russia Today Documentary English
-https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://i.ibb.co/jZM2VfB/Untitled-1-08.png" group-title="KNOWLEDGE",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://i.ibb.co/s98gsdd/Untitled-1-07.png" group-title="KNOWLEDGE", INSIGHT
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="inwonder.au" tvg-name="Inwonder" tvg-logo="https://i.ibb.co/LQ3z5C3/Untitled-1-10.png" group-title="KNOWLEDGE",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.ibb.co/v1w7BvD/Untitled-1-05.png" group-title="KNOWLEDGE",HGTV
-https://kusnadipepenk.github.io/ntn/hgtv.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/GM2Q8mD/Untitled-1-02.png",BBC Earth Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
  
-+++++++KNOWLEGDGE++++++++ 
  
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/DtJCRWD/Untitled-1-04.png",Discovery Channel
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/Lpw1m5j/Untitled-1-06.png",History Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
++++++RELIGI-------
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
