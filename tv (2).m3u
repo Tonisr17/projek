@@ -233,7 +233,7 @@ https://ythls-v2.onrender.com/channel/UCDRCl6JTjDKjyquagRWrkgA.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/BZm8fm1/nickjr.jpg" group-title="KIDS", NICK JR 
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:261_HD.smil/manifest.mpd
+http://iptvid.my.id/avc/Toni/Tonisr123/nickjr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KXgYBKC/pbs.jpg" group-title="KIDS", PBS KIDS 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/K7xtw2B/tayo.jpg" group-title="KIDS", TAYO 
