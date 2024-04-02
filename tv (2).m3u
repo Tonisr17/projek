@@ -902,50 +902,47 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 ####VOD####
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="data:image/webp;base64,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" group-title="VOD" , JFL
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKa-7s9cENtypCKei-7_3hsCzWsEVK9FNj1DHgKqabO4raIyQwBFU9d6h&s=10" group-title="VOD" , JFL
 https://hometv.web.id/vod/JFL01.mp4
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r1IS1Z9E6WMT3yGUwpLeF3xXdO.jpg" group-title="VOD" , Cassino King
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gVmsf0zHOIZZi9jjiuhfuGmuqp-wC9QJ8DxEaB31e3JEgNF9mBFiqC1J&s=10" group-title="VOD" , Cassino King
 https://privatemaster.xyz/cdn/stream/master/8zLVRSo1GYm5IxMs4lDwt4lupZvtNmCbkpUcXYKKPUHO8SxtBlMiVh0DUJcnT1j3lUwsB7PFb9LFxZN20EExKjgDFje57433yg4BUBwbBcWTi59vqoSZD0UbaGgUtntb/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.127.208.209:25461/images/ae7116fc7b51b96adb6a3af76cc3a59c.jpg" group-title="VOD" , Cassino King1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6mgjDE25_vRbf10wbVMSQgog1Wi7kfKGtA&usqp=CAU" group-title="VOD" , Cassino King1
 https://privatemaster.xyz/cdn/stream/master/00mZKnW7iD6Mj2OW9TCyq4RH6JIcG7Pi63HQ7IoqMtGHArRsZ9SIGOurtAlsx27KK3kv53PRSLYvi9JH9WkYKLEpsCuxCnkuxzlodsYzf84wuC8xQur0XgpRCgg1LTdu/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg" group-title="VOD" , Aquaman and the Lost Kingdom (2023)
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZGgrynaZVjLdjqvMKn34xv62pSBdDLO2M34ZyyMHRvFNQjcc4C-nl_CF&s=10" group-title="VOD" , Aquaman and the Lost Kingdom (2023)
 https://storage.dewanonton.online/hls/cad4820e-8427-4af4-a982-3ec3b56a42d8.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg" group-title="VOD" , Prom Pact
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvtNstjzXgbmZOifBXTQ8sNBleRCYXxhsNYl_BA5320q_pgXNlM2gYVU&s=10" group-title="VOD" , Prom Pact
 https://storage.dewanonton.online/hls/1dc930e0-85cf-4ebd-8c22-59089768a69f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg" group-title="VOD" , The Kicthen
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKWuAMqwJFMk-pq3Pd75lYw5KCYuMAjo8wG64__KnqTT7ZWLMqqlyYIE&s=10" group-title="VOD" , The Kicthen
 https://storage.dewanonton.online/hls/d2747fbc-b5c8-4edc-ba7e-76cff3bae2ae.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.127.208.209:25461/images/6c37b4b792248420e98df0acca23baef.jpg" group-title="VOD" , Assasin
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMYSESN60KCxEpQtinZEvuCQ5jqo4XHb_yzgXbGE521fVWe888DUreYKY&s=10" group-title="VOD" , Assasin
 https://storage.dewanonton.online/hls/6758682d-b92e-49af-aaee-1ef307c3882d.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.127.208.209:25461/images/c8d39a77cd3e17a20041eeadf560a974.jpg" group-title="VOD" , The Unheard
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdASZmBIODtpTzIlcvyIovZMhpjyQuAzHg2xaGuTdVTg7LkOY167CmInY&s=10" group-title="VOD" , The Unheard
 https://storage.dewanonton.online/hls/e33f8c02-6946-45fe-8c35-d5a34a96c46d.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/9c28eacbf2fc9982a5ca337182bb01ef.jpg" group-title="VOD" , Tetris
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2n_csQsc06HzPTUNoWyYeSIQ2u3iv2W7TjQbDXAtxTcT7QWOA4hAquQ&s=10" group-title="VOD" , Tetris
 https://storage.dewanonton.online/hls/b992b99c-d4f1-4ec2-b18a-d31f77d4d39f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/7ab3afaf6d7a8614d0f717ef385f8324.jpg" group-title="VOD" , Murder Mystery 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwMGz9KDA5csPEc2w8CYE8hjHfoViongDoKzrknXBtQ-y-LcqC4p3Nuo&s=10" group-title="VOD" , Murder Mystery 2 
 https://storage.dewanonton.online/hls/99555a28-e31a-484d-a3ed-446b7c19739f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/82a65928f8f7cc3e55d6c082e8bdfcd3.jpg" group-title="VOD" , Kill Boksoon 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXI0lUdiT1Sfn7Uh7dQOenFWvaWWbu2y-8EOa3EPwJUz_y0dxtguGd0cid&s=10" group-title="VOD" , Kill Boksoon 
 https://storage.dewanonton.online/hls/b2b68a8c-2c60-42d1-9797-da9d728b9202.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/019d6fb3a759a67a27fee455007aae54.jpg" group-title="VOD" , Fist of the Condor
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSak-Qd0dOWgypi8eQl8BkqA_3i0PLP57hSpE3l0UgUMQ&s" group-title="VOD" , Fist of the Condor
 https://storage.dewanonton.online/hls/f6c7d4da-6824-4ff1-845a-4f6493725908.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/820375e66e34df421c7fa8d402562900.jpg" group-title="VOD" , The Three Musketeers
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLKMdIk59bXlrVxXacBJg6yTS0faO7NfU_9w&usqp=CAU" group-title="VOD" , The Three Musketeers
 https://storage.dewanonton.online/hls/b2b68a8c-2c60-42d1-9797-da9d728b9202.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/cbb200b5c553cc93708c68b7789f355b.jpg" group-title="VOD" , Chaliver
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM9SPntG2Cg4L1jLGySc70mhlL-FI10JMCh7six7PzXvLBfaa9_QXk3b0&s=10" group-title="VOD" , Chaliver
 https://storage.dewanonton.online/hls/89c1be37-5b25-42c6-886d-0fbc62ff0e1f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/95586efa7b61c32a1fea09139d3f5ff7.jpg" group-title="VOD" , Rebound
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/PlCsLXcmxaA/hqdefault.jpg" group-title="VOD" , Rebound
 https://storage.dewanonton.online/hls/f7a5a351-77dc-44a2-a742-73cc9d849fdf.mp4/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFz8Mna6oc8YAmK4jwZRAC79Mzl.jpg" group-title="VOD DRAMA" , Luzzu
 https://storage.dewanonton.online/hls/448c3b28-54ed-45fe-a86b-180e22350fb8.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/77d3a9d7317e238f6501c111db1792fe.jpg" group-title="VOD DRAMA" , Italian Studies
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tybt-YQ4Mpf2aRCR6Al5d13RJye60e9fyffQREmXRzxYSlLMgTTpZyE&s=10" group-title="VOD DRAMA" , Italian Studies
 https://storage.dewanonton.online/hls/fec73262-7fdf-406e-97b0-a6dd7162b1b3.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/d845efba1734fbb6482e0c0de02950d6.jpg" group-title="VOD DRAMA" , This Is Not a Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFUVuGVcU_Hg0plzsDRXIF6H6Lf6sba0i5woGXHOeRWvRPGYG2pFLokcQ&s=10" group-title="VOD DRAMA" , This Is Not a Comedy
 https://storage.dewanonton.online/hls/11c76aff-c53b-443e-ac74-34cf02a7721e.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/ca7570b1e02cefd164bfbf67a6076cf6.jpg" group-title="VOD DRAMA" , The Free Fall
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnk1ufbbf88bz110ypY54H_xLy6-ukK_2FyA&usqp=CAU" group-title="VOD DRAMA" , The Free Fall
 https://storage.dewanonton.online/hls/777f5115-09d3-48f8-8eb3-5995bdc5173c.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/8887a91b6753472aed6b02fbb946efcb.jpg" group-title="VOD DRAMA" , Outsider
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9kHjUy3-5i3zNsfnR7vHgrniSLmuqWTYhENvvGjRVTw&s" group-title="VOD DRAMA" , Outsider
 https://storage.dewanonton.online/hls/4dc2d5f4-94e3-4d3a-bc78-dc1c165741b4.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvkita.my.id:25461/images/e87a4ac9e54286ade202ccdd5df9186b.jpg" group-title="VOD DRAMA" , See for Me 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXdTBmul2Zre5PkjNfhqC88EuhLoXJTPB6A&usqp=CAU" group-title="VOD DRAMA" , See for Me 
 https://storage.dewanonton.online/hls/4dc2d5f4-94e3-4d3a-bc78-dc1c165741b4.mp4/index.m3u8
 
 +++++2023----
@@ -1034,112 +1031,72 @@ https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=
 https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCivKNeD5cCAhdo7kf4wFbE8VnSr0ERw1M1-dgJDbtSK5YW8msbezTf9s&s=10" group-title="VOD BIOSKOP INDO",Pengabdi Setan 2: Communion
 https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zNkCspu43OFSIkKxKVVGJagkiqQ1r9lv4y_aAcBVJHEt82qK3fdquVhT&s=10" group-title="VOD BIOSKOP INDO",Perempuan Bergaun Merah
 https://www.googleapis.com/drive/v3/files/1frrGRk2EJaa7u8BvZge2Rt6zdyarv8yU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuX4VReBCGZbCuFeyEn7DZg189dMxfrZ-zVP6CGSrKRwkuhwdIUAk5Hzs&s=10" group-title="VOD BIOSKOP INDO",Potret Mimpi Buruk
 https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOuGNY5KOVFhVQe68DG5UyhvoUh9jpg2YHrnc5okL8J3yxxoJSG79XfE&s=10" group-title="VOD BIOSKOP INDO",Ratu Ilmu Hitam
 https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBINjTWEROZhOWJp9hyHKriezkydw8srVi8HHjJedojuUYvfWKXmGjLM&s=10" group-title="VOD BIOSKOP INDO",Rumah Dara
 https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27trK8k_sHh4ixeAxUXyXgG1gJVhJFaAOxQ&usqp=CAU" group-title="VOD BIOSKOP INDO",Rumah Kaliurang
 https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-N0apGTBimt0nDpoLtuD7jeN7ZdejoUTHngODxN0NK0mZjNjBMLooBiaQ&s=10" group-title="VOD BIOSKOP INDO",Backstage
 https://www.googleapis.com/drive/v3/files/1neVJzMjF_joMezylg2STuOHTVAaqtMKE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SWarJJqIPDuxfQJR7JJ3mW2pg2M5hUa3NMHM1WkSiKo7dJhKR9FoBj30&s=10" group-title="VOD BIOSKOP INDO",Balada Sepasang Kekasih Gila
 https://www.googleapis.com/drive/v3/files/1lB7iAm0iPEFH-tadRkTBUienDXpYEP3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHF1903m73XQeVOmBjt1uWU2C5gMQTGjJwWl8BPZnYCjp3CBb7ezw9lsg&s=10" group-title="VOD BIOSKOP INDO",Before I Met You
 https://www.googleapis.com/drive/v3/files/12DnUJAAAHljYp503SbUeU6eD_IUSRMDk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjDp2WQdbu6NhpowjXIjc3ryfZJrcHVf5aEMzP-gXFK8WUotM0fs9mtVb1&s=10" group-title="VOD BIOSKOP INDO",Ben & Jody
 https://www.googleapis.com/drive/v3/files/15BnYLZSg7YE68YglrBsUHmc_zkMWvsAo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCocNJfzHQEf0YGITOxm7h4UV0Rj62q5Jykgec6ywAEQ01B6gynCXvf8&s=10" group-title="VOD BIOSKOP INDO",Berbalas Kejam
 https://www.googleapis.com/drive/v3/files/1z1w-0XOwquvmWsTFkAhkjKIoyGZ9FMPe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_oZXsWcQBkhEXRliS22FbzMD9hcZnIo_lxFjP8oLf5Lvd6B2osR7D5hL&s=10" group-title="VOD BIOSKOP INDO",Cek Ombak Melulu
 https://www.googleapis.com/drive/v3/files/16hLTwDSvPMvdxlyeO4uYjwlmf8DoKPFe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgicCyUL4ut_RG32tVq1F3otmxMi4ddPx3TuP6Q3a6BB74sVTqSRehiDrt&s=10" group-title="VOD BIOSKOP INDO",Eyang Ti
 https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFP0ZCYC5EIdlPiV5GAzRcFRRGmIb7VB5xBISS81mlQ3xZ2ZSJcNaqE1Y&s=10" group-title="VOD BIOSKOP INDO",Father & Son
 https://www.googleapis.com/drive/v3/files/1G94bJbLg6zEMGTo4EpGSHA5h4Im8Pie7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHgK1D0j2Dqeha_1kNVEiZX5boHzTkeSjr55B9Czj2w&s" group-title="VOD BIOSKOP INDO",Geez & Ann
 https://www.googleapis.com/drive/v3/files/1n1Y0DBr1k0bwLO8eKDaxAdzSi8XSjZks?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9B11UvHelWZiDEW9iCQKQQKoKM1cngOTeLC7GMrAExKW2BMyKdzsCgNA&s=10" group-title="VOD BIOSKOP INDO",Gila Lu Ndro!
 https://www.googleapis.com/drive/v3/files/1w6XwRkhbnbbG5_H4zXNROH14dvLTuAQj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JCrcL4_j3sOlSyELwIN3o9ZbU1z9PskXs0S_KG-tg-o5gu36VNtbU4a9&s=10" group-title="VOD BIOSKOP INDO",Hari Yang Dijanjikan
 https://www.googleapis.com/drive/v3/files/1weKZ-8ejDRCEgcuFRf_wSLpDCGYIv8LA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOpvN9WBEONnoSZ4xR97kiU8dORoSVAl3ZKj3hH4DSYt367wthwKJE60&s=10" group-title="VOD BIOSKOP INDO",I Need You Baby
 https://www.googleapis.com/drive/v3/files/1V2yxvuDCSdj6KLzPzlS6wEt5uK8cEeqN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0sHk7gF554Of5ZT7Qo4w4_ZA24C7S3XlO3hVGvZkOPY_knJ1dgupMCjj&s=10" group-title="VOD BIOSKOP INDO",Jagat Arwah
 https://www.googleapis.com/drive/v3/files/1rnUsX-cEYrNflSk46_eGxhXJxh0J7ZKS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgcyXlWi7pqY2rzW2tQWgTGISLDQre59F32JNaNAl2zA8B9-KMy7ZrlUw&s=10" group-title="VOD BIOSKOP INDO",Jakarta vs Everybody
 https://www.googleapis.com/drive/v3/files/1JaNcwhXKY88NK1RuG-ESnV52gVU9Kneo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPBZTdtvutW0lT9MaTmy0ALUlqB8W3sqo19c42EYj8VLPkHwDBruWK4rA&s=10" group-title="VOD BIOSKOP INDO",Kapan Pindah Rumah?
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPBZTdtvutW0lT9MaTmy0ALUlqB8W3sqo19c42EYj8VLPkHwDBruWK4rA&s=10" group-tite="VOD BIOSKOP INDO",Kapan Pindah Rumah?
 https://www.googleapis.com/drive/v3/files/1bwOSUXFQIZIsZx9cBTlvf1YdQu4KRVMi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0isAU61peG9eg3vDL0_rVylm6ocA6GV6_HXG7HUi-red1dtBGFsE6f0zx&s=10" group-title="VOD BIOSKOP INDO",Kau & Dia
 https://www.googleapis.com/drive/v3/files/130IRjDIhoehAJzAPcWrYVyk4o0OLZLVJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD73KsRDUIBjrUHdNzljBM_K1EuCPPAJ2nmqkTJuiLPA&s" group-title="VOD BIOSKOP INDO",Keluarga Cemara 2
 https://www.googleapis.com/drive/v3/files/1RljtHPqFNudxFH6MbrxTuYnJ6EGS6XC-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDna4yX-yK0hK-POgKv566LbVbPjG5qnpoog&usqp=CAU" group-title="VOD BIOSKOP INDO",Kemarin
 https://www.googleapis.com/drive/v3/files/1n2vmBIoqT1kfRTpNvT3VzIXzgxeWUdMw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FPtliHAcL3ulGFbujpKjG3lwpH4=/960x540/filters:quality(75)/vidio-web-prod-film/uploads/film/image_landscape/5978/lara-ati-82d2cc.jpg" group-title="VOD BIOSKOP INDO",Lara Ati
 https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSBaNzCobcl0fax4AR6dSY489oUsZKQ4cvQ&usqp=CAU" group-title="VOD BIOSKOP INDO",Layar
 https://www.googleapis.com/drive/v3/files/1QqDkyf6MJWnUHmxks5qr6Gc6ASSK055_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTZcRTqor3fRl740DoCcSZmc173-fxiIyf0Ii-IE2KgZANVUIURFU-wA&s=10" group-title="VOD BIOSKOP INDO",Love for Sale
 https://www.googleapis.com/drive/v3/files/1QIHiznLRHEJ4OxSlvvP1R3-uBQ7Vde3O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Gx5qhS1mIDY/sddefault.jpg" group-title="VOD BIOSKOP INDO",Love for Sale 2
 https://www.googleapis.com/drive/v3/files/1lGaxzRE2KI5DGTqyWWX6twkLhYQFAeDc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz19bbwEn5ZCVaPEGHbSE_GM-kNDEbkBZl6anvM4lgvMXbP72hSQPJ9os&s=10" group-title="VOD BIOSKOP INDO",Love in Game
 https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWfHVa3YFJlWOK3sgR-y_cqt4PxW3F8ShhpQ&usqp=CAU" group-title="VOD BIOSKOP INDO",Love of Fate
 https://www.googleapis.com/drive/v3/files/11Smi54BAqIpIE6xL6rbEUbXCxv9a-GC0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5Sfd26XpzQbFwBO0M2POk3F4mitD_3BYYfrbEe08SFGJ_CMnYzeqLFQ&s=10" group-title="VOD BIOSKOP INDO",Marlina si Pembunuh dalam Empat Babak
 https://www.googleapis.com/drive/v3/files/1Fs9O7PdGdiCw70W-do_aMS0lhuQrK2Dv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYvi-1C1vb7ig89LpwKr8rnYv8eu97xkFCQ&usqp=CAU" group-title="VOD BIOSKOP INDO",Marriage
 https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWNeA4N1FmZsuo2MGvaWR3Hhcu_BiuGrmy0d1FObkp49Cd9CwnOs7bdKB&s=10" group-title="VOD BIOSKOP INDO",Mencuri Raden Saleh
 https://www.googleapis.com/drive/v3/files/1628d0WouiHIruxQ8a61JJpPb5_0jNI3K?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwUFqOCYJBMcaxB5B3lh8j-f2VMiQyKiIP1znON5QOA&s" group-title="VOD BIOSKOP INDO",Mendarat Darurat
 https://www.googleapis.com/drive/v3/files/1ovJeE0_u8aS8Imto9UjTdIY--yGYVElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0rs5C8eG-SWC-EWzusnvjlD49bO5oW_Akw-Z3lUZvZhDyJBI7sEGzGsG&s=10" group-title="VOD BIOSKOP INDO",Menunggu Bunda
 https://www.googleapis.com/drive/v3/files/1NH1ROYrB-zACqhlIbgCPr-UAh_kxxdiu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -1321,68 +1278,3 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7fn13WThCgBdnkAKPPpRHO-XANLgTQ1Bb9xAAAcEdFnOMVtm1H6H1CM5&s=10" group-title="DEWASA 18+" , XXX14
 http://cdn.adultiptv.net/threesome.m3u8
 
-
-
-
-tes
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKa-7s9cENtypCKei-7_3hsCzWsEVK9FNj1DHgKqabO4raIyQwBFU9d6h&s=10" group-title="VOD" , JFL
-https://hometv.web.id/vod/JFL01.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gVmsf0zHOIZZi9jjiuhfuGmuqp-wC9QJ8DxEaB31e3JEgNF9mBFiqC1J&s=10" group-title="VOD" , Cassino King
-https://privatemaster.xyz/cdn/stream/master/8zLVRSo1GYm5IxMs4lDwt4lupZvtNmCbkpUcXYKKPUHO8SxtBlMiVh0DUJcnT1j3lUwsB7PFb9LFxZN20EExKjgDFje57433yg4BUBwbBcWTi59vqoSZD0UbaGgUtntb/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6mgjDE25_vRbf10wbVMSQgog1Wi7kfKGtA&usqp=CAU" group-title="VOD" , Cassino King1
-https://privatemaster.xyz/cdn/stream/master/00mZKnW7iD6Mj2OW9TCyq4RH6JIcG7Pi63HQ7IoqMtGHArRsZ9SIGOurtAlsx27KK3kv53PRSLYvi9JH9WkYKLEpsCuxCnkuxzlodsYzf84wuC8xQur0XgpRCgg1LTdu/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZGgrynaZVjLdjqvMKn34xv62pSBdDLO2M34ZyyMHRvFNQjcc4C-nl_CF&s=10" group-title="VOD" , Aquaman and the Lost Kingdom (2023)
-https://storage.dewanonton.online/hls/cad4820e-8427-4af4-a982-3ec3b56a42d8.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvtNstjzXgbmZOifBXTQ8sNBleRCYXxhsNYl_BA5320q_pgXNlM2gYVU&s=10" group-title="VOD" , Prom Pact
-https://storage.dewanonton.online/hls/1dc930e0-85cf-4ebd-8c22-59089768a69f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKWuAMqwJFMk-pq3Pd75lYw5KCYuMAjo8wG64__KnqTT7ZWLMqqlyYIE&s=10" group-title="VOD" , The Kicthen
-https://storage.dewanonton.online/hls/d2747fbc-b5c8-4edc-ba7e-76cff3bae2ae.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMYSESN60KCxEpQtinZEvuCQ5jqo4XHb_yzgXbGE521fVWe888DUreYKY&s=10" group-title="VOD" , Assasin
-https://storage.dewanonton.online/hls/6758682d-b92e-49af-aaee-1ef307c3882d.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdASZmBIODtpTzIlcvyIovZMhpjyQuAzHg2xaGuTdVTg7LkOY167CmInY&s=10" group-title="VOD" , The Unheard
-https://storage.dewanonton.online/hls/e33f8c02-6946-45fe-8c35-d5a34a96c46d.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2n_csQsc06HzPTUNoWyYeSIQ2u3iv2W7TjQbDXAtxTcT7QWOA4hAquQ&s=10" group-title="VOD" , Tetris
-https://storage.dewanonton.online/hls/b992b99c-d4f1-4ec2-b18a-d31f77d4d39f.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwMGz9KDA5csPEc2w8CYE8hjHfoViongDoKzrknXBtQ-y-LcqC4p3Nuo&s=10" group-title="VOD" , Murder Mystery 2 
-https://storage.dewanonton.online/hls/99555a28-e31a-484d-a3ed-446b7c19739f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXI0lUdiT1Sfn7Uh7dQOenFWvaWWbu2y-8EOa3EPwJUz_y0dxtguGd0cid&s=10" group-title="VOD" , Kill Boksoon 
-https://storage.dewanonton.online/hls/b2b68a8c-2c60-42d1-9797-da9d728b9202.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSak-Qd0dOWgypi8eQl8BkqA_3i0PLP57hSpE3l0UgUMQ&s" group-title="VOD" , Fist of the Condor
-https://storage.dewanonton.online/hls/f6c7d4da-6824-4ff1-845a-4f6493725908.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLKMdIk59bXlrVxXacBJg6yTS0faO7NfU_9w&usqp=CAU" group-title="VOD" , The Three Musketeers
-https://storage.dewanonton.online/hls/b2b68a8c-2c60-42d1-9797-da9d728b9202.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM9SPntG2Cg4L1jLGySc70mhlL-FI10JMCh7six7PzXvLBfaa9_QXk3b0&s=10" group-title="VOD" , Chaliver
-https://storage.dewanonton.online/hls/89c1be37-5b25-42c6-886d-0fbc62ff0e1f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/PlCsLXcmxaA/hqdefault.jpg" group-title="VOD" , Rebound
-https://storage.dewanonton.online/hls/f7a5a351-77dc-44a2-a742-73cc9d849fdf.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFz8Mna6oc8YAmK4jwZRAC79Mzl.jpg" group-title="VOD DRAMA" , Luzzu
-https://storage.dewanonton.online/hls/448c3b28-54ed-45fe-a86b-180e22350fb8.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tybt-YQ4Mpf2aRCR6Al5d13RJye60e9fyffQREmXRzxYSlLMgTTpZyE&s=10" group-title="VOD DRAMA" , Italian Studies
-https://storage.dewanonton.online/hls/fec73262-7fdf-406e-97b0-a6dd7162b1b3.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFUVuGVcU_Hg0plzsDRXIF6H6Lf6sba0i5woGXHOeRWvRPGYG2pFLokcQ&s=10" group-title="VOD DRAMA" , This Is Not a Comedy
-https://storage.dewanonton.online/hls/11c76aff-c53b-443e-ac74-34cf02a7721e.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnk1ufbbf88bz110ypY54H_xLy6-ukK_2FyA&usqp=CAU" group-title="VOD DRAMA" , The Free Fall
-https://storage.dewanonton.online/hls/777f5115-09d3-48f8-8eb3-5995bdc5173c.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9kHjUy3-5i3zNsfnR7vHgrniSLmuqWTYhENvvGjRVTw&s" group-title="VOD DRAMA" , Outsider
-https://storage.dewanonton.online/hls/4dc2d5f4-94e3-4d3a-bc78-dc1c165741b4.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXdTBmul2Zre5PkjNfhqC88EuhLoXJTPB6A&usqp=CAU" group-title="VOD DRAMA" , See for Me 
-https://storage.dewanonton.online/hls/4dc2d5f4-94e3-4d3a-bc78-dc1c165741b4.mp4/index.m3u8
