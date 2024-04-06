@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="25481" tvg-id="DiscoveryChannelIndonesia.id" tvg-name="Discovery Channel" tvg-logo="http://www.goldentv.tech:80/images/981adeae3ad4952ebbe1c07b743bce65.jpg" group-title="KNOWLEDGE™",Discovery Channel
-http://172.104.33.113/auth/3tn8yAMjVlUZIF0LL6dufeERAUHl8up3MNePRYhFk28BAQ0N2LXoU5is3F12_-hVLcMhHbWKAUcGLvzWLWuvMlz2oWdTDr6s2hpOFYZsY49JbzE77Ck9gdKFwAZhWX_qJzDxglCaH9jhOXSk8vDu1wZt9d_-tJonjobdzu-Emm5SCa1nRJJHpAcnzowo19VQ8OfWV5rFiJXDaH2OuUjqPkHy6h5ETj5t9yf3tkw-RKE5uzVYuYnCt12bpZ5blV_Q3RS6af_JGhLpfMcZucpIAOJHLafrcP4AmspaOu2k3cSKd6zaiPjkRQQgfuxh3Cp5gMP8o-fVwXqIEU6onvmraUU8x9tR31zLlMpDOfziD77mU2tOf3kZZGw0fbaDauRnlGwuFzFM2uNaNEO_v5sAw5yqRSyczbDWfcq_1uXtlXNlKTx9f_f8yVLaZrBL6-Ltu1z971ifMpSE2YPakTelda0klo37-znO9JgsNMX8UWN2jAx19ZO99mSnyRexwfcm3k-9w3wo9iUgYZbmPMtn6r56x30Na3p5VziTakE9W_HB-DNKLPRK2hXidVl_tjojvOOD2bt2dJjiHhGCiEg46f5nc-TacdIYEuajLFYNm-aFyNk8rR0fnF-sG71vNGGyF3Tt18ne_Li4CZixf2Np2Q
+http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7j1efRIedRyefTD0JkMYRlkzbDs_n9pl_ZwErlksKTPX/ts
 #EXTINF:-1 xui-id="25482" tvg-id="ABCAustralia.au" tvg-name="Crime Investigation" tvg-logo="http://www.goldentv.tech:80/images/c4c132594d22dd78c3752439447ca55c.png" group-title="KNOWLEDGE™",Crime Investigation
-http://www.goldentv.tech/auth/ofSiq_HAVRbm_8Hx8DdR9rS1H85XNku8Scrf1tFfBiTWPPL6ld5Q5BsZ95_KOOw-BWDafCmjbNgT_fL55b53wrxH1UcCRinnsNFsXls3sFE
+http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7o-cGynMPaQ67LIZRF79j4C2EcnTZCowMjEg6LfGXeqS/ts
 #EXTINF:-1 xui-id="25484" tvg-id="HistoryAsia.us" tvg-name="History" tvg-logo="http://www.goldentv.tech:80/images/dd44b8f7d1f2572a29404c024f14b98c.png" group-title="KNOWLEDGE™",History
-http://194.233.88.232/auth/3tn8yAMjVlUZIF0LL6dufQQTlhH9v_T8METqgBHxpY71XYTQrEGrIqkpcqy99IWEwzSFop9Vut9fTK8EWpfmAs9c_EkD-C7Vq29vOpIyLFkzcPo5Xy1VEKc9D96JZhu7NqNgvAJoa7PSj4XXOo1XUpf4RFjq92jwd_P-Pjh9cx1ZA3Net8F7-OqNZeO5MJ6rY6P_J0f9W2RXtsrkHzwVJwgmlhglCq1u2r9Zv6JRFpri5mExFi-OMfVEU4-hnMnBuFbH7GqlQZFoMYOV6cTrwre2iMdkYP2hJmOSPRrcxIk77dygnZ85NHFGf6T0p2IEWgqrS8PkAhrEinMddSSNnd4jBeyz_ShfyixWZ9UD5W29OZaWzmO2gBSjxyPZ1Gqh4JxUPyUIzPbsCbcAKXp5E6z2aAuuigFZvPFiATjho4njmvhG4tZj0du98vYMNLaNlfmjoAbkOpgqmIWQ_OpUREObHbk4vh4qh3F380sRkD3gfDXU-5TSdySYpM4A-zjnuNHXDQWjK79QaB_a0eqDcS9XiqUD2DCJx9-SgVHk1Ka_ge3OIzUJaTfyb8v5NEikTxO2brXSt8MIB2vvK99htxlsi5HLK5WKuGSPyeLVQOWsm1vbC8CkYrqaR-EA-Nig_8zSAHanlviKBzgaStt-43T0ha67qQNuZa-V0q7xrTw
+http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7iPD4aqCNUUy44Amx-FkNYtC3VPBuugMTMia5DrqRRfw/ts
 #EXTINF:-1 xui-id="25486" tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="http://www.goldentv.tech:80/images/be8b44162c670d2052f771303630a3fa.png" group-title="KNOWLEDGE™",HGTV
-http://194.233.88.232/auth/3tn8yAMjVlUZIF0LL6dufV2NFU-GY82vUOq0KG7TFBM_IF1enEs8mrBZQYYILEI_XEGBF5WTO9qTw3HLIbuS0qrW0PGNing6FD_pICKWsTplEgGYohZQKQHqkVW1K3qPFX3GC48KBFjWqTEANYta_TFPf0E6EEeNm0htudLMomwdyxvjdBKXYq5C-eNnKiQOWLi52XHZQYj7wLzrd2tNm_Ad8KV6JVEdG-4pBPEO3oi-owf-26XEdLay-2KeCFgSslgeGdPwvLbh11vUlpcvUaFkeYc7_k7POWvhA82OgCp0hGK7UbCEZSIbRW523ZtVcpnLnJF2Kn5xox7VTjknmwqwkPDV0YMDd9SMSpir_RE_wnaZehv6jdYfa0ynGMiGIlkV2WBUGiGsuJQKQYhKoSqqItj3Y_qojAKYcj9ciNJNNeI5y4KKrefI2KcdCUKPFTWU2p0DRwfJxn4OEpNe0T9PkP4N7Gn40_jivfVQ1s0AMVhfVJ9q_-sqkSJ_e7m3fKhCPfOQPqhRNE5Cp8Mwq76g8dhzslphZ9Ajee9QlV966MLrA4Tv88kNaKx1TpSCS3t7EKYIXloX0npDPw82IAsysC1I11Ysn7PZkRUptLCmHkspgs4o-iQfVf_a1hAzF8gZSXS2txTcPL40pjPCb7cJh9GtAJvloPscx9wQUVk
+http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7mpIGTLFRQBbmLi_nkhXpGWF3Ii3Gv5yxC-DynSzaJeW/ts
 #EXTINF:-1 xui-id="25487" tvg-id="LoveNature.id" tvg-name="LOVE NATURE" tvg-logo="http://www.goldentv.tech:80/images/f786365c2f89fdd61e383cc7cbdbceb7.png" group-title="KNOWLEDGE™",LOVE NATURE
-http://www.goldentv.tech/auth/ofSiq_HAVRbm_8Hx8DdR9j4O0QI_yifw5lUApJ0E2Oy8jFPGvhu4bUNWXRLn4YavatctcY5nwBS_PoP8Q7bt8GbkzEmt_nzBJLfXnV4HqOg
+http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7ljv0o2M-Exp3NAJqUhuWyXEZJoHuEwvss2qLcQ37dUO/ts
 #EXTINF:-1 xui-id="25488" tvg-id="Smithsonian.id" tvg-name="SMITHSONIAN" tvg-logo="http://www.goldentv.tech:80/images/584bc3d8908e718f2127e002a1a1fb0f.png" group-title="KNOWLEDGE™",SMITHSONIAN
-http://194.233.88.232/auth/3tn8yAMjVlUZIF0LL6dufV9VvV-xuGAvU7XfwBB15JC13InXqKRQvYnFiGgIJo7ZGEr1ziLFFaGxqN3VV6P1VoTEdjkd88A72dF_r5xouIvZk29SrDkJiDLyLlNDSA4aTxXB-OJkseEoAQH_sRKTsmCReUSddVTvFvJ47m3HjA7mMbP794OdGkv6gILUJCSDevn-2W8VGFziqvne2-ddCtaFS-FJnpeYzq7RedGRf3ELSJ9yHmpXZcAKkCjCOcEG_MX2mKRBeYj8_Au4Nfn5OWfqVu321btq4qps083QRbAExTdLqJYRnElsP8rttFxiSQhmyavTxHf25BHIWeO3lUHr9_lqd3H6M2G2ZZolq6CqioU9Tqa3zdEzV3CWtHpw7StpwxKNtzBSVUqidHlrst0iJfB0r0OIE0VFI9eUe1j8W9RMh48fUamKYcMRR1jFUgOAFi0O0m8QwwQF5n_kz-QVZCgIV877J2IpmWuXXCk_28Xv-g-ewyRkAtEIuxJuxY_PtqgF31Bye-m6caNYxdtp5QsvRPSncvyKY8NcOUh2LUVst2IBqEs04STWfgaoT5U92jEii625EbaQLgPsw0ypMYE8ixQGNE449NuAFAUKY3vub57Sysl_dtNTctwMbXuCPDs15w2Eq4qFQk6V-e9VRcOGfJ9Z3C8xs2BmBKc
+http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7gqG1cnuY_IJwMrfa214V4_H_RpVw599IWXdEpahRrLr/ts
 #EXTINF:-1 xui-id="25489" tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEb-bfa8UypsRLUKAO_oIx_NN4Gdn8scvX74WOiW1KB5GAr80a" group-title="KNOWLEDGE™",BBC Earth
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7hfX7GcD2m7l_bwXPxa2ZJs9WU7l6Pz7FBbom5MWyrp1/ts
 #EXTINF:-1 xui-id="25492" tvg-id="ABCAustralia.au" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmih4pBRw9maQs9GAXjwXYWQhpmmi2BZkrv5JSXwDbtFESYi6f" group-title="KNOWLEDGE™",Animal Planet
@@ -28,7 +28,7 @@ http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7vWcaG6xPaFlvYWlm0RRPKw-Diw
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7gLqbgkd57VMSfTZYX1o8cj9jTTxqblASO7jpXZyMrR0/ts
 #EXTINF:-1 xui-id="22720" tvg-id="" tvg-name="Madinah tv" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5WC9U7-XWkaPCvWIeYpguoDSh2npsu5GNwOb_=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIUS™",Madinah tv
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7k6AcxswURXM3FXKqtZdfJpuyQKgQXLvykCfQy6FKJ_t/ts
-#EXTINF:-1 xui-id="24995" tvg-id="" tvg-name="DTG The Movies (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/xbi9e9fy1huead0/dtg%20the%20movies.png?dl=1" group-title="ALFANET TV BIOSKOP™",DTG The Movies (Indonesia Subtittle)
+#EXTINF:-1 xui-id="24995" tvg-id="" tvg-name="DTG The Movies (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/xbi9e9fy1huead0/dtg%20the%20movies.png?dl=1" group-title="GOLDEN TV BIOSKOP™",DTG The Movies (Indonesia Subtittle)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7txPuxOoH-mEbTEknLdZsjCCI5E6QclrZuovg6usUxto/ts
 #EXTINF:-1 xui-id="32586" tvg-id="" tvg-name="fashion tv Midnight 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrSVM0-ripa2wUpu2XU3fEKLkEbLg2tiXg4KbA1nNmx-4a5J9p" group-title="Lifestyle & Music (Hanya Bonus Channel)",fashion tv Midnight 2
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7gyTQhQIMCS1YvFqFCgQURwuA5doQ3v6rIDavJg5L1-k/ts
@@ -50,9 +50,9 @@ http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7sfQ-lt5ugIuqUgpPL1Wh8IW8uE
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7vXSE6_qJTwRVB2Pjri8vw1piGP2caBhzo0DImzSyEtz/ts
 #EXTINF:-1 xui-id="26125" tvg-id="" tvg-name="Tvikim" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQISLV17VYIlXQg-pIoyma8W2WVg_1AQBy63IsrhbwJfcKjMxDw" group-title="MALAYSIA™",Tvikim
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7gMrOpb7tIq8fCPD7cF-WfsEYla9HYdpZJqXTjq3Y44t/ts
-#EXTINF:-1 xui-id="25983" tvg-id="" tvg-name="DTG World Movies (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/up0ds5uuo7juqsb/dtg%20movies%20world.png?dl=1" group-title="ALFANET TV BIOSKOP™",DTG World Movies (Indonesia Subtittle)
+#EXTINF:-1 xui-id="25983" tvg-id="" tvg-name="DTG World Movies (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/up0ds5uuo7juqsb/dtg%20movies%20world.png?dl=1" group-title="GOLDEN TV BIOSKOP™",DTG World Movies (Indonesia Subtittle)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7okEQZrsvc8ePCgUbhcNyQ6Bf4xyCJ8uQG-BBINwvuD-/ts
-#EXTINF:-1 xui-id="25988" tvg-id="" tvg-name="DTG Film Indonesia (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/vbhebtyqqlr638g/dtg%20film%20indonesia.png?dl=1" group-title="ALFANET TV BIOSKOP™",DTG Film Indonesia (Indonesia Subtittle)
+#EXTINF:-1 xui-id="25988" tvg-id="" tvg-name="DTG Film Indonesia (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/vbhebtyqqlr638g/dtg%20film%20indonesia.png?dl=1" group-title="GOLDEN TV BIOSKOP™",DTG Film Indonesia (Indonesia Subtittle)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7vAfWtmFQcK9tMVHCOSMyM9Q1LyszUibrplIDvYTI_zq/ts
 #EXTINF:-1 xui-id="26000" tvg-id="zeecinema" tvg-name="Cinemax" tvg-logo="http://www.goldentv.tech:80/images/bda7b2deb6fea32e9321f9f9809bec3f.png" group-title="MOVIES™",Cinemax
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7j80YL-ewJYKSYJecUk4woD0A2xvLOHtEsozPozc9ld5/ts
@@ -60,7 +60,7 @@ http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7j80YL-ewJYKSYJecUk4woD0A2x
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7qRmq3AjUp0s_sAY1nTETNGLpR80uX8r0yEADyCNInYE/ts
 #EXTINF:-1 xui-id="23405" tvg-id="AsianFoodChannel.MACAN" tvg-name="AFN" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr1HpT4Hel5kE8scP0OFUgsT7__4MIICMhS5jHunStPJVUGo0A" group-title="ENTERTAINMENT™",AFN
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7mREycPA449-3j4fsxfxiAXVZBp-RcQI86bY8kGR5Wie/ts
-#EXTINF:-1 xui-id="23407" tvg-id="" tvg-name="DTG Box Office (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/2ek24kq4p77qx96/20220612_141922.png?dl=1" group-title="ALFANET TV BIOSKOP™",DTG Box Office (Indonesia Subtittle)
+#EXTINF:-1 xui-id="23407" tvg-id="" tvg-name="DTG Box Office (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/2ek24kq4p77qx96/20220612_141922.png?dl=1" group-title="GOLDEN TV BIOSKOP™",DTG Box Office (Indonesia Subtittle)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7j2seZd1l46CaDuYSdV3D_kdJxFyqGhDp9sZ4V-gf-K9/ts
 #EXTINF:-1 xui-id="23423" tvg-id="CitraDrama.id" tvg-name="Citra Drama" tvg-logo="http://www.goldentv.tech:80/images/e07e23dd8e1e9837e5c2929d3d6bbf3d.jpg" group-title="ENTERTAINMENT™",Citra Drama
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7kRsu2i1UJrot1peCCO9ek65ZoPoUstOkujdPFkkZ9Ly/ts
@@ -80,7 +80,7 @@ http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7r6vcRe_F9uSoQB4v-nzK44Z1ji
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7gg6gOuuNOWb869X_FrCmbPXFJgkFwGfSd_Cqc4aaL5c/ts
 #EXTINF:-1 xui-id="25736" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia HD" tvg-logo="http://www.goldentv.tech:80/images/cd3e280582172608c3eb18556f157023.png" group-title="LOKAL INDONESIA™",CNBC Indonesia HD
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7qezY7SlO5A3OspU0-VTZ3GY5PdXfEnrztwKwC0dnvYJ/ts
-#EXTINF:-1 xui-id="39526" tvg-id="ABCAustralia.au" tvg-name="DTG Haunted (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/hl7rk0fuonyhcbr/dtg%20haunted.png?dl=1" group-title="ALFANET TV BIOSKOP™",DTG Haunted (Indonesia Subtittle)
+#EXTINF:-1 xui-id="39526" tvg-id="ABCAustralia.au" tvg-name="DTG Haunted (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/hl7rk0fuonyhcbr/dtg%20haunted.png?dl=1" group-title="GOLDEN TV BIOSKOP™",DTG Haunted (Indonesia Subtittle)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7rufDCfUtezWiOXVQYLCsGLQwYPrShJjEX-j-wF0vEkQ/ts
 #EXTINF:-1 xui-id="39527" tvg-id="ABCAustralia.au" tvg-name="TVN Movies" tvg-logo="http://www.goldentv.tech:80/images/91c094ff4606a76ec1389e6c6e5fb9cc.png" group-title="ENTERTAINMENT™",TVN Movies
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7oTiLgdj3LxKbBl14HNPUNQwv4RMtnOCeyvJZXFzvZnH/ts
