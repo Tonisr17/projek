@@ -7,7 +7,7 @@ https://tv.burhansyam.com/api/plus.m3u8?ch=1&t=666
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=3&t=666
 
-#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/MNCTV.jpg" group-title="LOKAL ID🇮🇩",MNCTV
+#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/MNCTV.png" group-title="LOKAL ID🇮🇩",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=2&t=666
 
@@ -82,7 +82,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/m
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/nusatara.png" group-title="LOKAL ID🇮🇩", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/tvri.jpg" group-title="LOKAL ID🇮🇩", TVRI NASIONAL HD
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/tvri.png" group-title="LOKAL ID🇮🇩", TVRI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
