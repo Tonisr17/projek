@@ -52,18 +52,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/metro-tv-461c64.jpg" group-title="LOKAL ID🇮🇩",METRO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j3N3vC9/metro-tv-461c64-1.jpg" group-title="LOKAL ID🇮🇩",METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/kompastv.jpg" group-title="LOKAL ID🇮🇩", KOMPAS TV
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co.com/rtS9SyQ/images-4-1.jpg" group-title="LOKAL ID🇮🇩", KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/rtv.jpg" group-title="LOKAL ID🇮🇩", RTV HD
+#EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co.com/mGps3Pr/rtv.jpg" group-title="LOKAL ID🇮🇩", RTV HD
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -72,27 +72,27 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0dc1e828693e30d88d0e26677e572992:339ff6f612893358ea95bf9b0f6ad70b
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/mentari.jpg" group-title="LOKAL ID🇮🇩", MENTARI TV
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co.com/G5tB3xW/mentari.jpg" group-title="LOKAL ID🇮🇩", MENTARI TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/nusatara.png" group-title="LOKAL ID🇮🇩", NUSANTARA TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co.com/LZn0475/images-5-1.jpg" group-title="LOKAL ID🇮🇩", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/tvri.png" group-title="LOKAL ID🇮🇩", TVRI HD
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co.com/tBXFfFm/images-6-1.jpg" group-title="LOKAL ID🇮🇩", TVRI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png" group-title="LOKAL ID🇮🇩", BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co.com/G3RgZ5J/images-7-1.jpg" group-title="LOKAL ID🇮🇩", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:0 tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/moji.jpg" group-title="LOKAL ID🇮🇩", MOJI
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/v1LtxRn/moji.jpg" group-title="LOKAL ID🇮🇩", MOJI
 http://xtv.ooo:8080/live/8899/8899/350997.m3u8
 
-#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-id="vtv.id" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/vtv.jpg",VTV
+#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-id="vtv.id" tvg-logo="https://i.ibb.co.com/j5n9xkQ/images-8-1.jpg",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
