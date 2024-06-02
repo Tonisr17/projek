@@ -3,41 +3,41 @@
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=1&t=666 
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/gtv.jpg" group-title="LOKAL ID🇮🇩",GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL ID🇮🇩",GTV
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=3&t=666
 
-#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/MNCTV.png" group-title="LOKAL ID🇮🇩",MNCTV
+#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_432.png" group-title="LOKAL ID🇮🇩",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=2&t=666
 
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/inews.jpg" group-title="LOKAL ID🇮🇩",INEWS
+#EXTINF:-1 tvg-name="iNews" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_433.png" group-title="LOKAL ID🇮🇩",INEWS
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=4&t=666
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/sctv.jpg" group-title="LOKAL ID🇮🇩",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="LOKAL ID🇮🇩",SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/indosiar.jpg" group-title="LOKAL ID🇮🇩",Indosiar 
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="LOKAL ID🇮🇩",Indosiar 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/net.jpg" group-title="LOKAL ID🇮🇩", NET TV
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="LOKAL ID🇮🇩", NET TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/trans.jpg", TRANS TV
+#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", TRANS TV
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(784e32da-bdac-7794-7122-0989aaf8959e)/manifest.mpd
 
-#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/trans7.jpg", TRANS 7
+#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", TRANS 7
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa-c720-864e-0cb46a9f5c03)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/cnn.jpg" group-title="LOKAL ID🇮🇩", CNN INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_337.png" group-title="LOKAL ID🇮🇩", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/cnb.jpg" group-title="LOKAL ID🇮🇩", CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_337.png" group-title="LOKAL ID🇮🇩", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/antv.jpg" group-title="LOKAL ID🇮🇩", ANTV
@@ -86,7 +86,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/btv.jpg" group-title="LOKAL ID🇮🇩", BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png" group-title="LOKAL ID🇮🇩", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/moji.jpg" group-title="LOKAL ID🇮🇩", MOJI
