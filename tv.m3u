@@ -15,11 +15,11 @@ https://tv.burhansyam.com/api/plus.m3u8?ch=2&t=666
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=4&t=666
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="LOKAL ID🇮🇩",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/c307fZC/SCTV-live-streaming-tv-1.jpg" group-title="LOKAL ID🇮🇩",SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="LOKAL ID🇮🇩",Indosiar 
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/x3qH9xp/images-1-1.jpg" group-title="LOKAL ID🇮🇩",Indosiar 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
@@ -37,7 +37,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co.com/HF3hCDM/download-1.png" group-title="LOKAL ID🇮🇩", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_337.png" group-title="LOKAL ID🇮🇩", CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co.com/yds4pcG/images-1.png" group-title="LOKAL ID🇮🇩", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co.com/wWcmBbC/ANTV-live-streaming-tv-1.jpg" group-title="LOKAL ID🇮🇩", ANTV
