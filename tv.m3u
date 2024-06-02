@@ -1,5 +1,5 @@
 #EXTM3U billed-msg="PLAYLIST INI GRATIS, Refresh secara berkala."
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/lokal/rcti.jpg" group-title="LOKAL ID🇮🇩",RCTI 
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="LOKAL ID🇮🇩",RCTI 
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
 https://tv.burhansyam.com/api/plus.m3u8?ch=1&t=666 
 
