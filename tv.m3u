@@ -172,22 +172,22 @@ https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="axnindonesia.id" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/14.jpg",AXN
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="axnindonesia.id" tvg-logo="https://i.ibb.co.com/LrKpfjm/images-2.png",AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="lifetimeasia.us" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/15.jpg",Lifetime
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="lifetimeasia.us" tvg-logo="https://i.ibb.co.com/hHYNVxz/images.jpg",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/16.jpg" group-title="ENTERTAINMENT", HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.ibb.co.com/w07Fqkj/images-1-1.png" group-title="ENTERTAINMENT", HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="visionprime.id" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/17.jpg",Vision Prime
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="visionprime.id" tvg-logo="https://i.ibb.co.com/BgCZkBg/Vision-Prime-2020-1.png",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
