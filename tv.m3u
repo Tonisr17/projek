@@ -243,19 +243,19 @@ https://testfunctionlive.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 #EXTINF:-1 tvg-id="" tvg-url="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/24.jpg" tvg-logo="https://i.ibb.co.com/R25fhty/images-3-1.jpg" group-title="ENTERTAINMENT",JiangsuTV
 https://testfunctionlive.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="nhkworldjapan.jp" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/26.jpg",NHK World Japan
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="nhkworldjapan.jp" tvg-logo="https://i.ibb.co.com/d5GMNgx/images-2.png",NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="tv5mondeasia.fr" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/27.jpg",TV5 Monde
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="tv5mondeasia.fr" tvg-logo="https://i.ibb.co.com/wMjXHWn/images-1.jpg",TV5 Monde
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ie.id" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/28.jpg",ie
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ie.id" tvg-logo="https://i.ibb.co.com/YyHT6G7/images-1.png",ie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
