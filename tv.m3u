@@ -156,17 +156,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/Y7MGrSQ/channels4-profile-1.jpg" group-title="ENTERTAINMENT",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/11.jpg" group-title="ENTERTAINMENT",Nadoo Korean
+#EXTINF:-1 tvg-id="" tvg-url="tvg-logo="https://i.ibb.co.com/hK6FBVN/images-1.png" group-title="ENTERTAINMENT",Nadoo Korean
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kix.hk" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/12.jpg",KIX
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kix.hk" tvg-logo="https://i.ibb.co.com/7rGj1zx/images.jpg",KIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:0 tvg-id="HitsMovies.Id" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/13.jpg" group-title="ENTERTAINMENT",HITS Movies
+#EXTINF:0 tvg-id="HitsMovies.Id" tvg-logo="https://i.ibb.co.com/PDwcF6d/images-1-1.jpg" group-title="ENTERTAINMENT",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
