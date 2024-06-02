@@ -126,7 +126,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="entertainment.id" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/5.jpg",Entertainment
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="entertainment.id" tvg-logo="https://i.ibb.co.com/wYXymcG/images-1.jpg",Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -135,10 +135,10 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/6.jpg" group-title="ENTERTAINMENT",TVN
+#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6N3K77R/channel-158.png" group-title="ENTERTAINMENT",TVN
 https://testfunctionlive.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="onetvasia.sg" tvg-logo="https://cyclical-plays.000webhostapp.com/Alfanet/entertainment/7.jpg",ONE
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="onetvasia.sg" tvg-logo="https://i.ibb.co.com/hW8HS7Z/images-2-1.jpg",ONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
