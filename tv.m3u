@@ -425,14 +425,14 @@ https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://i.ibb.co.com/S014zj4/images-6-1.jpg" group-title="KNOWLEDGE", NASA 🇺🇸
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="KNOWLEDGE", NATGEO 🇺🇸
+#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://i.ibb.co.com/BgZXjYw/images-7-1.jpg" group-title="KNOWLEDGE", NATGEO 🇺🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/800px-Natgeo_Kids_logo.svg.png" group-title="KNOWLEDGE", NATGEO KIDS ON YT 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/HFNpmS9/images-8-1.jpg" group-title="KNOWLEDGE", NATGEO KIDS ON YT 🇺🇸
 https://ythls-v2.onrender.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg.m3u8
 
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg" group-title="KNOWLEDGE", REAL WILD 🇬🇧
