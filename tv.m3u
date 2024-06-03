@@ -355,19 +355,21 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/cgtn.m3u8
 
 
 ```````` KNOWLEDGE ````````
-#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://www.crimeandinvestigationnetwork.com/assets/images/crimeandinvestigation/generic-thumb.jpg" group-title="KNOWLEDGE", CRIME INVESTIGATION 🇺🇸
+
+
+#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.ibb.co.com/80xh4NZ/images-4.jpg" group-title="KNOWLEDGE", CRIME INVESTIGATION 🇺🇸
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bassanglermag.com/wp-content/uploads/Outdoor-Channel.png" group-title="KNOWLEDGE", OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/J747LCn/images-1-1.jpg" group-title="KNOWLEDGE", OUTDOOR CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p026sp8r.jpg" group-title="KNOWLEDGE", BBC EARTH 🇬🇧
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co.com/Vwvzsv0/images-2-1.jpg" group-title="KNOWLEDGE", BBC EARTH 🇬🇧
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -379,7 +381,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="KNOWLEDGE", LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/JcdMzCR/images-3-1.jpg" group-title="KNOWLEDGE", LOVE NATURE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
