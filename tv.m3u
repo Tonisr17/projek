@@ -404,7 +404,7 @@ https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discove
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Turbo"  tvg-logo="https://i.ibb.co.com/L9qWMMJ/images-3-1.jpg",DISCOVERY TURBO 🇺🇸
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV 
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/YdZFhq0/images-1.png" group-title="KNOWLEDGE",DMAX TV 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
 #EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-name="GLOBAL TREKKER" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_201.png" group-title="KNOWLEDGE", GLOBAL TREKKER 🇸🇬
@@ -413,16 +413,16 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg", INDONESIANA TV 🇮🇩
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://i.ibb.co.com/HHvsVM9/1049771-720-1.jpg", INDONESIANA TV 🇮🇩
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://styles.redditmedia.com/t5_3j85c/styles/communityIcon_p5zwlwwvn5n51.png", INVESTIGATION DISCOVERY 🇬🇧
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 
-#EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://in.tv/wp-content/uploads/2023/01/inwild.png" group-title="KNOWLEDGE" , INWILD 🇬🇧
+#EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://i.ibb.co.com/rd5SnNB/images-5-1.jpg" group-title="KNOWLEDGE" , INWILD 🇬🇧
 https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 
-#EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/livestream-poster.png" group-title="KNOWLEDGE", NASA 🇺🇸
+#EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://i.ibb.co.com/S014zj4/images-6-1.jpg" group-title="KNOWLEDGE", NASA 🇺🇸
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="KNOWLEDGE", NATGEO 🇺🇸
