@@ -40,7 +40,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-logo="https://i.ibb.co.com/r57zXDJ/unnamed-1.jpg", TRANS 7
+#EXTINF:-1 group-title="LOKAL ID🇮🇩" tvg-logo="https://i.ibb.co.com/qW7skJj/trans7-tv-stream-b793ab-1.jpg", TRANS 7
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa-c720-864e-0cb46a9f5c03)/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co.com/HF3hCDM/download-1.png" group-title="LOKAL ID🇮🇩", CNN INDONESIA
