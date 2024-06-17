@@ -5,12 +5,8 @@ ini#EXTM3U billed-msg="PLAYLIST INI GRATIS, Refresh secara berkala."
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL ID🇮🇩",GTV
-#EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
-https://tv.burhansyam.com/api/plus.m3u8?ch=3&t=666
-
  
-#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="INDONESIA", GTV
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL ID🇮🇩", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
